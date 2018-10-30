@@ -2,6 +2,14 @@
 
 ## Middle School 7th Grade
 
+| Subject | Fall | Spring | Summer |
+|---------|------|--------|--------|
+| Math | | | |
+| Liberal Art | | |
+| Computer Science | | |
+| Languages | | |
+| Science | | | |
+
 ## Middle School 8th Grade
 
 | Subject | Fall | Spring | Summer |
