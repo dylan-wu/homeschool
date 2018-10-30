@@ -4,8 +4,13 @@
 
 ## Middle School 8th Grade
 
-| Fall | Summer | Spring |
-|------|--------|--------|
+| Subject | Fall | Spring | Summer |
+|---------|------|--------|--------|
+| Math | | | |
+| Liberal Art | | |
+| Computer Science | | |
+| Languages | | |
+| Science | | | |
 
 ## High School 9th Grade
 
