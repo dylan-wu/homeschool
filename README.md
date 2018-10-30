@@ -14,20 +14,40 @@
 
 ## High School 9th Grade
 
-| Fall | Summer | Spring |
-|------|--------|--------|
+| Subject | Fall | Spring | Summer |
+|---------|------|--------|--------|
+| Math | | | |
+| Liberal Art | | |
+| Computer Science | | |
+| Languages | | |
+| Science | | | |
 
 ## High School 10th Grade
 
-| Fall | Summer | Spring |
-|------|--------|--------|
+| Subject | Fall | Spring | Summer |
+|---------|------|--------|--------|
+| Math | | | |
+| Liberal Art | | |
+| Computer Science | | |
+| Languages | | |
+| Science | | | |
 
 ## High School 11th Grade
 
-| Fall | Summer | Spring |
-|------|--------|--------|
+| Subject | Fall | Spring | Summer |
+|---------|------|--------|--------|
+| Math | | | |
+| Liberal Art | | |
+| Computer Science | | |
+| Languages | | |
+| Science | | | |
 
 ## High School 12th Grade
 
-| Fall | Summer | Spring |
-|------|--------|--------|
+| Subject | Fall | Spring | Summer |
+|---------|------|--------|--------|
+| Math | | | |
+| Liberal Art | | |
+| Computer Science | | |
+| Languages | | |
+| Science | | | |
