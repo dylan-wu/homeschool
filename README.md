@@ -16,7 +16,7 @@
 |---------|------|--------|--------|
 | Math | Calculus I | Calculus II | |
 | Liberal Art | | |
-| Computer Science | | |
+| Computer Science | Programming III | |
 | Languages | Chinese I <br> French I <br> Japanese 0 | |
 | Science | | | |
 
