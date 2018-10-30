@@ -14,7 +14,7 @@
 
 | Subject | Fall | Spring | Summer |
 |---------|------|--------|--------|
-| Math | | | |
+| Math | Calculus I | Calculus II | |
 | Liberal Art | | |
 | Computer Science | | |
 | Languages | | |
