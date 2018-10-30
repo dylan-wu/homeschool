@@ -4,7 +4,7 @@
 
 | Subject | Fall 2017 | Spring 2018 | Summer 2018 |
 |---------|------|--------|--------|
-| Math | Alex College Algebra :white_check_mark: ![](http://progressed.io/bar/60) | Alex College Algebra ![](http://progressed.io/bar/100) | |
+| Math | Alex College Algebra ![](http://progressed.io/bar/60) | Alex College Algebra ![](http://progressed.io/bar/100) | |
 | Liberal Art | | |
 | Computer Science | | |
 | Languages | | |
