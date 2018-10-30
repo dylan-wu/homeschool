@@ -2,9 +2,9 @@
 
 ## Middle School 7th Grade
 
-| Subject | Fall | Spring | Summer |
+| Subject | Fall 2017 | Spring 2018 | Summer 2018 |
 |---------|------|--------|--------|
-| Math | | | |
+| Math | Alex College Algebra :white_check_mark: ![](http://progressed.io/bar/60) | Alex College Algebra ![](http://progressed.io/bar/100) | |
 | Liberal Art | | |
 | Computer Science | | |
 | Languages | | |
