@@ -15,7 +15,7 @@
 | Subject | Fall | Spring | Summer |
 |---------|------|--------|--------|
 | Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus I | CLEP Calculus II <br> AP Calculus BC|  |
-| Liberal Art | | |
+| Liberal Art | CLEP Interpreting Literature <br> CLEP American Literature <br> CLEP Social Sciences| |
 | Computer Science | Programming III | |
 | Languages | Chinese I <br> French I <br> Japanese 0 | |
 | Science | edX MITx: 7.QBWx Quantitative Biology | | |
