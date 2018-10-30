@@ -18,7 +18,7 @@
 | Liberal Art | | |
 | Computer Science | Programming III | |
 | Languages | Chinese I <br> French I <br> Japanese 0 | |
-| Science | | | |
+| Science | edX MITx: 7.QBWx Quantitative Biology | | |
 
 ## High School 9th Grade
 
