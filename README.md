@@ -14,7 +14,7 @@
 
 | Subject | Fall | Spring | Summer |
 |---------|------|--------|--------|
-| Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus I | CLEP Calculus II | AP Calculus BC |
+| Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus I | CLEP Calculus II <br> AP Calculus BC|  |
 | Liberal Art | | |
 | Computer Science | Programming III | |
 | Languages | Chinese I <br> French I <br> Japanese 0 | |
