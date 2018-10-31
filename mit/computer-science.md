@@ -8,7 +8,6 @@
 
 ## 6.05J/18.400J Automata, Computability, and Complexity
 
-OCW 
 - [2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/index.htm)
 - [2005](https://dspace.mit.edu/handle/1721.1/68649)
 - [2005](https://dspace.mit.edu/handle/1721.1/36867)
