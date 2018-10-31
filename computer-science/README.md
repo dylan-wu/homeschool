@@ -1,13 +1,5 @@
 # Computer Science
 
-## 1. Mathematics
-
-### 1.1 Calculus
-### 1.2 Discrete Mathematics
-### 1.3 Linear Algebra
-### 1.4 Probability
-### 1.5 Statistics
-
 ## 2. Programming
 
 ### 2.1 Data Structures
