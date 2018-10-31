@@ -12,7 +12,7 @@
 
 ## Middle School 8th Grade
 
-| Subject | Fall | Spring | Summer |
+| Subject | Fall 2018 | Spring 2019 | Summer 2019 |
 |---------|------|--------|--------|
 | Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus I <br> MIT 18.01 Calculus I| CLEP Calculus II <br> AP Calculus BC|  |
 | Liberal Art | CLEP Interpreting Literature <br> CLEP American Literature <br> CLEP Psychology | CLEP English Literature <br> AP English Composition <br> AP English Literature |
@@ -22,7 +22,7 @@
 
 ## High School 9th Grade
 
-| Subject | Fall | Spring | Summer |
+| Subject | Fall 2019 | Spring 2020 | Summer 2020 |
 |---------|------|--------|--------|
 | Math | | | |
 | Liberal Art | | |
@@ -32,7 +32,7 @@
 
 ## High School 10th Grade
 
-| Subject | Fall | Spring | Summer |
+| Subject | Fall 2020 | Spring 2021 | Summer 2021 |
 |---------|------|--------|--------|
 | Math | | | |
 | Liberal Art | | |
@@ -42,7 +42,7 @@
 
 ## High School 11th Grade
 
-| Subject | Fall | Spring | Summer |
+| Subject | Fall 2021 | Spring 2022 | Summer 2022 |
 |---------|------|--------|--------|
 | Math | | | |
 | Liberal Art | | |
@@ -52,7 +52,7 @@
 
 ## High School 12th Grade
 
-| Subject | Fall | Spring | Summer |
+| Subject | Fall 2022 | Spring 2023 | Summer 2023 |
 |---------|------|--------|--------|
 | Math | | | |
 | Liberal Art | | |
