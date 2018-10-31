@@ -4,17 +4,17 @@
 
 | Subject | Fall 2017 | Spring 2018 | Summer 2018 |
 |---------|------|--------|--------|
-| Math | Aleks College Algebra ![](http://progressed.io/bar/60) | Aleks College Algebra ![](http://progressed.io/bar/100) | |
+| Math | Aleks College Algebra | Aleks College Algebra | |
 | Liberal Art | | |
 | Computer Science | | |
 | Languages | | |
-| Science | Chemistry I :white_check_mark: | Chemistry II :white_check_mark: <br> Biology I :white_check_mark: | Genetics :white_check_mark: <br> Bioinformatics :white_check_mark: |
+| Science | Chemistry I | Chemistry II  <br> Biology I :white_check_mark: | Genetics  <br> Bioinformatics |
 
 ## Middle School 8th Grade
 
 | Subject | Fall | Spring | Summer |
 |---------|------|--------|--------|
-| Math | CLEP College Algebra :white_check_mark: <br> CLEP College Mathematics :white_check_mark: <br> CLEP Pre Calculus <br> CLEP Calculus I | CLEP Calculus II <br> AP Calculus BC|  |
+| Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus I | CLEP Calculus II <br> AP Calculus BC|  |
 | Liberal Art | CLEP Interpreting Literature <br> CLEP American Literature <br> CLEP Social Sciences| CLEP English Literature <br> AP English Composition <br> AP English Literature |
 | Computer Science | Programming III | |
 | Languages | Chinese I <br> French I <br> Japanese 0 | |
