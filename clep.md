@@ -1,5 +1,6 @@
 
 | Catagory | Name | 
+|----------|------|
 | Literature | American Literature | 
 | Literature | Analyzing and Interpreting Literature | 
 | Literature | College Composition | 
