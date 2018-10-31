@@ -4,6 +4,7 @@
 - [2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 - [2010](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [2005](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/)
+- [2002](https://dspace.mit.edu/handle/1721.1/70477)
 
 ## 6.05J/18.400J Automata, Computability, and Complexity
 
