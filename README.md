@@ -8,7 +8,7 @@
 | Liberal Art | | |
 | Computer Science | | |
 | Languages | | |
-| Science | Chemistry I | Chemistry II  <br> Biology I | Genetics  <br> Bioinformatics |
+| Science | Chemistry I | Chemistry II  <br> Biology I | Genetics  <br> Bioinformatics <br> Biotech Quality Assurance |
 
 ## Middle School 8th Grade
 
