@@ -21,3 +21,11 @@
 - [2006](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/)
 - [2002](https://dspace.mit.edu/handle/1721.1/39661)
 
+
+## Differential Equations
+- [18.034 Spring 2009 Honor](https://ocw.mit.edu/courses/mathematics/18-034-honors-differential-equations-spring-2009/)
+- [18.03SC Fall 2011](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
+- [18.03 Spring 2010](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
+- [8.03 Spring 2006](https://hdl.handle.net/1721.1/70961)
+
+
