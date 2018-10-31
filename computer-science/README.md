@@ -16,3 +16,6 @@
 ### 2.4 Algorithems
 
 ## 3. Research
+
+### 3.1 Numerical 
+- [Stony Brook: Python in Scientific Computing](https://github.com/sbu-python-class/python-science)
