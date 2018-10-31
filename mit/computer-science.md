@@ -30,3 +30,5 @@
 
 ## Calculus Online Textbook
  - [1991](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/index.htm)
+ - [Study Guide](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/study-guide/)
+ - [Instructor's Manual](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/instructor-s-manual/)
