@@ -17,7 +17,7 @@
 | Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus I <br> MIT 18.01 Calculus I| CLEP Calculus II <br> AP Calculus BC|  |
 | Liberal Art | CLEP Interpreting Literature <br> CLEP American Literature <br> CLEP Psychology | CLEP English Literature <br> AP English Composition <br> AP English Literature |
 | Computer Science | Programming III | |
-| Languages | Chinese I <br> French I <br> Japanese 0 | |
+| Languages | Chinese I <br> French I <br> Japanese 0 | Chinese I <br> CLEP French I <br> Japanese 0|
 | Science | edX MITx: 7.QBWx Quantitative Biology | | |
 
 ## High School 9th Grade
