@@ -37,7 +37,7 @@
 | Math | | | |
 | Liberal Art | | |
 | Computer Science | | |
-| Languages | | |
+| Languages | | AP Japanese <br> AP German  |
 | Science | | | |
 
 ## High School 11th Grade
