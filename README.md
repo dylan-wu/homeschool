@@ -14,7 +14,7 @@
 
 | Subject | Fall 2018 | Spring 2019 | Summer 2019 |
 |---------|------|--------|--------|
-| Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus <br> MIT 18.01 Calculus I&II| CLEP Calculus II <br> MIT 18.01 Calculus I&II <br> AP Calculus BC| MIT 18.02 Calculus III |
+| Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus <br> MIT 18.01 Calculus I&II | AP Calculus BC <br> MIT 18.01 Calculus I&II | MIT 18.02 Calculus III |
 | Liberal Art | CLEP Interpreting Literature <br> CLEP American Literature <br> CLEP Psychology | CLEP English Literature <br> AP English Composition <br> AP English Literature |
 | Computer Science | Programming III | |
 | Languages | Chinese I <br> French I <br> Japanese 0 | Chinese I <br> CLEP French I <br> Japanese 0|
