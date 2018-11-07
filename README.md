@@ -24,7 +24,7 @@
 
 | Subject | Fall 2019 | Spring 2020 | Summer 2020 |
 |---------|------|--------|--------|
-| Math | | | |
+| Math | MIT 18.02 Calculus Multi | MIT 18.034 Honors Differential Equations | |
 | Liberal Art | | |
 | Computer Science | | |
 | Languages | | |
