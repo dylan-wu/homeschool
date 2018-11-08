@@ -17,7 +17,7 @@
 | Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus <br> MIT 18.01 Calculus Single | AP Calculus BC <br> MIT 18.01 Calculus Single | MIT 18.02 Calculus Multi |
 | Liberal Art | CLEP Interpreting Literature <br> CLEP American Literature <br> CLEP Psychology | CLEP English Literature <br> AP English Composition <br> AP English Literature |
 | Computer Science | Programming III | | MIT 6.01 Introduction to EECS I |
-| Languages | Chinese I <br> French I <br> Japanese 0 | Chinese I <br> CLEP French I <br> Japanese 0|
+| Languages |  | CLEP French I |
 | Science | edX MITx: 7.QBWx Quantitative Biology | | |
 
 ## High School 9th Grade
@@ -27,7 +27,7 @@
 | Math | MIT 18.02 Calculus Multi | MIT 18.06 Linear Algebra <br> MIT 18.034 Honors Differential Equations | MIT 18.700 Linear Algebra|
 | Liberal Art | | |
 | Computer Science | MIT 6.02 Introduction to EECS II | MIT 6.042J/18.062J Mathematics for Computer Science |
-| Languages | | | AP Chinese <br> AP French <br> AP Spanish |
+| Languages | CLEP Spanish | | AP Chinese <br> AP French <br> AP Spanish |
 | Science | | | |
 
 ## High School 10th Grade
