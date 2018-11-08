@@ -8,7 +8,7 @@
 | Liberal Art | | |
 | Computer Science | | |
 | Languages | | |
-| Science | Chemistry I | Chemistry II  <br> Biology I | Genetics  <br> Bioinformatics <br> Biotech Quality Assurance |
+| Science | ACC Chemistry I | ACC Chemistry II  <br> ACC Biology I | ACC Genetics  <br> ACC Bioinformatics <br> ACC Biotech Quality Assurance |
 
 ## Middle School 8th Grade
 
@@ -16,7 +16,7 @@
 |---------|------|--------|--------|
 | Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus <br> MIT 18.01 Calculus Single | MIT 18.01 Calculus Single <br> AP Calculus BC | MIT 18.02 Calculus Multi |
 | Liberal Art | CLEP Interpreting Literature <br> CLEP American Literature <br> CLEP Psychology | CLEP English Literature <br> AP English Composition <br> AP English Literature |
-| Computer Science | Programming III | | MIT 6.01 Introduction to EECS I |
+| Computer Science | ACC Programming III | | MIT 6.01 Introduction to EECS I |
 | Languages |  | CLEP French I |
 | Science | edX MITx: 7.QBWx Quantitative Biology | | |
 
