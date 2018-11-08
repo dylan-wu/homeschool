@@ -14,7 +14,7 @@
 
 | Subject | Fall 2018 | Spring 2019 | Summer 2019 |
 |---------|------|--------|--------|
-| Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus <br> MIT 18.01 Calculus Single | MIT 18.01 Calculus Single <br> AP Calculus BC | MIT 18.02 Calculus Multi |
+| Math | CLEP College Algebra <br> CLEP College Mathematics <br> CLEP Pre Calculus <br> CLEP Calculus <br> MIT 18.01 Calculus Single | MIT 18.01 Calculus Single <br> AP Calculus BC | MIT 18.02 Calculus Multi & Test AP Calculus BC|
 | Liberal Art | CLEP Interpreting Literature <br> CLEP American Literature <br> CLEP Psychology | CLEP English Literature <br> AP English Composition <br> AP English Literature |
 | Computer Science | Programming III | | MIT 6.01 Introduction to EECS I |
 | Languages |  | CLEP French I |
@@ -27,7 +27,7 @@
 | Math | MIT 18.02 Calculus Multi | MIT 18.06 Linear Algebra <br> MIT 18.034 Honors Differential Equations | MIT 18.700 Linear Algebra|
 | Liberal Art | | |
 | Computer Science | MIT 6.02 Introduction to EECS II | MIT 6.042J/18.062J Mathematics for Computer Science |
-| Languages | CLEP Spanish | | AP Chinese <br> AP French <br> AP Spanish |
+| Languages | CLEP Spanish | | Test AP Chinese <br> Test AP French <br> Test AP Spanish |
 | Science | | | |
 
 ## High School 10th Grade
