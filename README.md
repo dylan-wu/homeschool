@@ -37,7 +37,7 @@
 | Math | | | |
 | Liberal Art | | |
 | Computer Science | | |
-| Languages | CLEP German | | AP Japanese <br> AP German  |
+| Languages | CLEP German | | AP Japanese <br> AP German <br> AP Italian  |
 | Science | | | |
 
 ## High School 11th Grade
