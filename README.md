@@ -24,7 +24,7 @@
 
 | Subject | Fall 2019 | Spring 2020 | Summer 2020 |
 |---------|------|--------|--------|
-| Math | MIT 18.02 Calculus Multi | MIT 18.06 Linear Algebra <br> MIT 18.034 Honors Differential Equations | MIT 18.700 Linear Algebra|
+| Math | MIT 18.02 Calculus Multi <br> ACC Calculus III | MIT 18.06 Linear Algebra <br> MIT 18.034 Honors Differential Equations | MIT 18.700 Linear Algebra|
 | Liberal Art | | |
 | Computer Science | MIT 6.02 Introduction to EECS II | MIT 6.042J/18.062J Mathematics for Computer Science |
 | Languages | CLEP Spanish | | Test AP Chinese <br> Test AP French <br> Test AP Spanish |
