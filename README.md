@@ -27,7 +27,7 @@
 | Math | MIT 18.02 Calculus Multi | MIT 18.06 Linear Algebra <br> MIT 18.034 Honors Differential Equations | MIT 18.700 Linear Algebra|
 | Liberal Art | | |
 | Computer Science | MIT 6.02 Introduction to EECS II | MIT 6.042J/18.062J Mathematics for Computer Science |
-| Languages | | AP Chinese <br> AP French <br> AP Spanish |
+| Languages | | | AP Chinese <br> AP French <br> AP Spanish |
 | Science | | | |
 
 ## High School 10th Grade
@@ -37,7 +37,7 @@
 | Math | | | |
 | Liberal Art | | |
 | Computer Science | | |
-| Languages | | AP Japanese <br> AP German  |
+| Languages | | | AP Japanese <br> AP German  |
 | Science | | | |
 
 ## High School 11th Grade
