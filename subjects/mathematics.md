@@ -13,12 +13,13 @@
 
 Trigonometry
 Katherine Yoshiwara
+
 [Link](https://yoshiwarabooks.org/trig/)
 
 Active Calculus
 by Matthew Boelkins
 
-[Link]((https://activecalculus.org/single/sec-8-6-powerseries.html))
+[Link]((https://activecalculus.org/single/sec-8-6-powerseries.html)
 
 
 Applied Combinatorics
