@@ -29,3 +29,9 @@ Applied Combinatorics
 by Mitchel Keller
 
 [Link](https://open.umn.edu/opentextbooks/textbooks/applied-combinatorics)
+
+Number Theory: In Context and Interactive
+
+Karl-Dieter Crisman
+
+[Link](http://math.gordon.edu/ntic/ntic/NTIC.html)
