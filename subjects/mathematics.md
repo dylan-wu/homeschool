@@ -11,7 +11,7 @@
 
 # Books
 
-Trigonometry
+## Trigonometry
 
 Katherine Yoshiwara
 
