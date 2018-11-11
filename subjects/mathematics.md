@@ -10,6 +10,11 @@
 
 
 # Books
+
+Trigonometry
+Katherine Yoshiwara
+[Link](https://yoshiwarabooks.org/trig/)
+
 Active Calculus
 by Matthew Boelkins
 
