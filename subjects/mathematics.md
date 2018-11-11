@@ -35,3 +35,10 @@ Number Theory: In Context and Interactive
 Karl-Dieter Crisman
 
 [Link](http://math.gordon.edu/ntic/ntic/NTIC.html)
+
+Modeling, Functions, and GraphsAlgebra for College Students
+
+Katherine Yoshiwara
+
+[Link](https://yoshiwarabooks.org/mfg/MFG.html)
+
