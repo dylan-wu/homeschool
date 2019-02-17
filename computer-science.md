@@ -13,3 +13,5 @@
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 [Bradfield School Teach Yourself CS](https://teachyourselfcs.com/)
+
+[Stanford Algorithms Specialization - Tim Roughgarden](https://www.coursera.org/specializations/algorithms)
