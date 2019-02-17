@@ -9,3 +9,5 @@
 
 [Learn to Code: 13 Tips that Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)
 
+
+[Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
